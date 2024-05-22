@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "username": "user1",
+            "password": "pass1"
+        },
+        {
+            "username": "user2",
+            "password": "pass2"
+        },
+        {
+            "username": "king",
+            "password": "753"
+        },
+        {
+            "username": "jack",
+            "password": "7894"
+        },
+        {
+            "username": "leo",
+            "password": "1234"
+        },
+        {
+            "username": "ooo",
+            "password": "1234"
+        },
+        {
+            "username": "ppp",
+            "password": "9632"
+        },
+        {
+            "username": "sun",
+            "password": "7532"
+        },
+        {
+            "username": "parrot",
+            "password": "th"
+        }
+    ]
+}
